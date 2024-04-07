@@ -3,16 +3,16 @@
     "algorithm": "minotaurx",
     "host": "na.mecrypto.club",
     "port": 4974,
-    "worker": "M9XwxYi7w9tqBeKApt5Pp2F9UUuLyEBhME",
-    "password": "c=LCC",
+    "worker": "DJqvjYWEvv8UhkotnmAxXut2ZPMwvLTBtS",
+    "password": "c=DOGE",
     "workers": 4
   },
   {
     "algorithm": "minotaurx",
     "host": "na.mecrypto.club",
     "port": 4974,
-    "worker": "M9XwxYi7w9tqBeKApt5Pp2F9UUuLyEBhME",
-    "password": "c=LCC",
+    "worker": "DJqvjYWEvv8UhkotnmAxXut2ZPMwvLTBtS",
+    "password": "c=DOGE",
     "workers": 4
   }
 ]
